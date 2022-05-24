@@ -2,7 +2,7 @@
 👨🏻‍🎓 Hangyeong Univ. Software & service Computing sophomore
 
 ## Python
-> [Python](https://github.com/siggu/Python/blob/main/README.md)
+> [Python](https://github.com/siggu/Python)
 
 ## Java
-> [Java](https://github.com/siggu/Java/blob/main/README.md)
+> [Java](https://github.com/siggu/Java)
