@@ -1,5 +1,5 @@
 ### Jeongmok kim
-👨🏻‍🎓 Hangyeong Univ. Software & service Computing sophomore
+👨🏻‍🎓 Hangyeong Univ. Software & service Computing
 
 ## Python
 > [Python](https://github.com/siggu/Python)
